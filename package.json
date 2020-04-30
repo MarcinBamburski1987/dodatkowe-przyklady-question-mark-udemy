@@ -16,7 +16,8 @@
     "@types/jasminewd2": "2.0.8",
     "@angular/animations": "9.0.2",
     "@angular/platform-browser": "9.0.2",
-    "@angular/platform-browser-dynamic": "9.0.2"
+    "@angular/platform-browser-dynamic": "9.0.2",
+    "acorn": ">=7.1.1"
   },
   "scripts": {
     "ng": "ng",
